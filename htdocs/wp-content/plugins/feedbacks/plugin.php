@@ -9,7 +9,7 @@ $post = isset($_GET['post']) ? $_GET['post'] : false;  // trovo l'id
 /**
  * @return bool
  */
-echo 'fuck';
+echo 'fuck+++';
 function retrieve_the_term()
 {
     $post = isset($_GET['post']) ? $_GET['post'] : false;  // trovo l'id
